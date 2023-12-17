@@ -1,0 +1,2 @@
+Note: 1. To exit from Real time video face detection program and color detection program= press ESC key.
+      2. While running the program make sure to install all the modules ( pip install -r requirements.txt)
